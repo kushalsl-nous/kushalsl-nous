@@ -70,5 +70,5 @@ I take a business-first approach to architecture:
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kushalsenlaskarin/)
-- Bengaluru, Karnataka, India
+- **LinkedIn:** [Kushal Sen Laskar](https://www.linkedin.com/in/kushalsenlaskarin/)
+- **Location:** Bengaluru, Karnataka, India

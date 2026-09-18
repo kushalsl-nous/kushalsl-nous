@@ -1,6 +1,6 @@
 # Hi, I'm Kushal Sen Laskar 👋
 
-### Azure Data Architect | Databricks & Lakehouse | Data Engineering, Governance & AI
+### Azure Data Architect | Databricks Certified Professional | Lakehouse | Data Engineering, Governance & AI
 
 I design scalable, reliable, and governed data platforms that transform enterprise data into useful products, analytics, and business decisions.
 
